@@ -2,7 +2,7 @@
 
 ## Description
 
-You, the hungry individual, must begin planning your journey in search of nourishment. Luckily you live in the age of advanced technology which grants you the power to grab the locations and quality of said foodstuffs out of thin air.
+You, the hungry individual, must begin planning your journey in search of nourishment. Luckily you live in the age of advanced technology, which grants you the power to grab the locations and quality of said foodstuffs out of thin air.
 
 ## Usage
 
