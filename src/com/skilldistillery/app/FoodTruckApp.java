@@ -29,12 +29,16 @@ public class FoodTruckApp {
 				}
 				break;
 			}
+			
+			System.out.print("Enter the trucks food type: ");
+			
+			String foodType = in.nextLine();
 
 			System.out.print("Enter the trucks numeric rating: ");
 			double rating = in.nextDouble();
 			in.nextLine(); // consume newlines
 
-			trucks[truckCount] = new FoodTruck(name, rating);
+			trucks[truckCount] = new FoodTruck(name, foodType, rating);
 			truckCount++;
 		}
 
